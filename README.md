@@ -1,2 +1,3 @@
-# Jenkinsproject
-This is a practice project for git and jenkins
+# maven-project
+Project source code for jenkins
+Testing webhook
